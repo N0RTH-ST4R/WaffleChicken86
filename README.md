@@ -1,1 +1,1 @@
-I am a chicken.
+Will there ever be a WaffleScript?
